@@ -1,0 +1,7 @@
+venv
+*.pyc
+.DS_Store
+.env
+
+/original.csv
+/model_train.py
